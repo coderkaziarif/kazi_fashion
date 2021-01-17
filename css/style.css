@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    height: 900px;
+    background-color: #FFF9F4 ;
+    
+}
+section{
+    height: 900px;
+    
+    
+  
+}
+    
+ 
+.menu-bar ul li {
+    padding: 0 30px;
+       
+ }
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #383B59;
+}
+.name-highlight{
+    color:#FA804C;
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    color: #383B59;
+    margin-top: 30px;
+}
+h4{
+    color: #383B59;
+    font-weight: 500;
+    font-size: 24px;
+    
+}
+ .shoe-card 
+ { 
+    border-radius: 15px;
+    background-color: #F1F1F1;
+    padding-left: 10px;
+   
+
+ } 
+ .btn-size .btn{
+     height: 60px;
+     width: 170px;
+     background-color: #3745C8;
+     padding: 5px 5px;
+     border-radius: 10px; 
+     
+ }
+ .btn-size h5{
+     font-size:36px ;
+     color: #FA804C;
+     font-weight: 900;
+     margin-top: 3px;
+ }
+ .btn-size .btn img{
+     width: 25px;
+     padding-right: 6px;
+     margin-top: -3px;
+    
+ }
+  
+ .formal-shoe{
+    border: 0;
+   
+ }
+.shoe-card .body-title h4{
+    font-size: 24px;
+    color: #363958;
+    font-weight: 700;
+}
+.only-card .body-title h4{
+    font-size: 24px;
+    color: #363958;
+    font-weight: 700;
+    
+}
+.side-image{
+    width: 100%;
+}
+
+.title{
+    padding-left: 30px;
+}
+
+.title h3{
+    font-size: 20px;
+   
+}
+.title p{
+    font-size: 16px;
+}
+.card-shawod{
+    border: 0;
+    border-radius: 10px;
+}
